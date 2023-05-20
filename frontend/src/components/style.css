@@ -1,0 +1,23 @@
+.conteiner{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
+.card{
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.btn{
+    padding: 10px 40px;
+    background-color: aqua;
+    font-size: 15px;
+    border-radius: 7px;
+}
+input{
+    padding: 10px 25px;
+    font-size: 20px;
+    border-radius: 7px;
+}
+.card>p{
+    font-size: 17px;
+}
