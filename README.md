@@ -1,4 +1,4 @@
-# GoldStone-assign
+# GoldStone
 
 Mission:
 
